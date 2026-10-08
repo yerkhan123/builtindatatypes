@@ -1,1 +1,1 @@
-year_of_bdate = 1955
+print("Hello World")
